@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Institute of Photonics and Quantum Sciences
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: We do some research on quantum stuff.
+bio: Welcome to the Quantum Optics and Cold Atoms (QOCA) research group. We are part of the Institute of Photonics and Quantum Sciences (IPaQS) at Heriot-Watt University in Edinburgh, Scotland.
+
+ 
+
+We work on problems related to low-temperature physics, quantum optics, condensed matter physics, quantum information and gauge theories. The topic is theoretical physics, but we are also closely collaborating with experimentalists.
 
 interests:
 - Quantum Simulation
@@ -27,15 +31,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MRes in Physics
+    institution: Barcelona Institute of Science and Technology, ICFO & IFAE
+    year: 2017-2018
+  - course: BSc in Physics, Fundamental Physics Track
+    institution: Universitat de Barcelona
+    year: 2012-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
