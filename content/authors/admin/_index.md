@@ -20,8 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Welcome to the Quantum Optics and Cold Atoms (QOCA) research group. We are part of the Institute of Photonics and Quantum Sciences (IPaQS) at Heriot-Watt University in Edinburgh, Scotland.
 
- 
-
 We work on problems related to low-temperature physics, quantum optics, condensed matter physics, quantum information and gauge theories. The topic is theoretical physics, but we are also closely collaborating with experimentalists.
 
 interests:
