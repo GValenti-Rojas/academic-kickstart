@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Quantum Optics and Cold Atoms Group
+name: "Quantum Optics and Cold Atoms Group"
 
 # Username (this should match the folder name)
 authors:
