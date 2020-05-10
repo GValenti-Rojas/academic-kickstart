@@ -55,4 +55,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Here I would put the team
+Here I would put the team. You can click on people's names to see their profile.
