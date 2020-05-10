@@ -64,7 +64,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
 ---
 
 Welcome to the Quantum Optics and Cold Atoms (QOCA) research group. We are part of the Institute of Photonics and Quantum Sciences (IPaQS) at Heriot-Watt University in Edinburgh, Scotland.
