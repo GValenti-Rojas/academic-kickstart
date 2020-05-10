@@ -13,7 +13,7 @@ subtitle = "Quantum Physicists"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -30,7 +30,7 @@ subtitle = "Quantum Physicists"
   
   # Background image.
    image = "waves.jpg"  # Name of image in `static/img/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -50,18 +50,6 @@ subtitle = "Quantum Physicists"
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+Welcome to the Quantum Optics and Cold Atoms (QOCA) research group. We are part of the Institute of Photonics and Quantum Sciences (IPaQS) at Heriot-Watt University in Edinburgh, Scotland.
 
-This is to add links [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/).
-
-Here I am trying som LaTex commands $$l = \pi r^{2}$$. And here some list
-- Support development of Academic:
-  - [Wear the T-shirt](https://academic.threadless.com/)
-
-{{% alert note %}}
-This is some Alert [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+We work on problems related to low-temperature physics, quantum optics, condensed matter physics, quantum information and gauge theories. The topic is theoretical physics, but we are also closely collaborating with experimentalists. 
