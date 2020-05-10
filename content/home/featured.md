@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Featured"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -49,11 +49,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "andromeda.jpg"  # Name of image in `static/img/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "andromeda.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-   text_color_light = true  
+  # text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -63,4 +63,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Some words on the publications section
+Some words on the featured section
