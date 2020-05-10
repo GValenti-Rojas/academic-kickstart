@@ -21,6 +21,7 @@ Some Research **asterisks** :
 - [ ] Do something else
 
 
-And here I want to introduce a Chern-Simons term $$\mathcal{L} = \frac{\kappa}{4\pi}\,\epsilon^{\,\mu\nu\lambda}\,A_{\mu}\,\partial_{\nu}\,A_{\lambda}$$
+And here I want to introduce a Chern-Simons term 
+$$\mathcal{L} = \frac{\kappa}{4\pi}\,\epsilon^{\,\mu\nu\lambda}\,A_{\mu}\,\partial_{\nu}\,A_{\lambda}$$
 
 > This is a blockquote.
