@@ -12,7 +12,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "waves.jpg"
 ---
 
 Some Research **asterisks** :
