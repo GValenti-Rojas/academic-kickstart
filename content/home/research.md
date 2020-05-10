@@ -1,5 +1,5 @@
 ---
-title: This is the Research Section
+title: "Research"
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -21,6 +21,6 @@ Some Research **asterisks** :
 - [ ] Do something else
 
 
-And here I want to introduce a Chern-Simons term $$\mathcal{L} = 4 \pi$$
+And here I want to introduce a Chern-Simons term $$\mathcal{L} = \frac{\kappa}{4\pi}\,\epsilon^{\,\mu\nu\lambda}\,A_{\mu}\,\partial_{\nu}\,A_{\lambda}$$
 
 > This is a blockquote.
