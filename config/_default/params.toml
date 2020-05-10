@@ -48,7 +48,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "andromeda.jpg"
+logo = "qoca.png"
 
 ############################
 ## Site Features
@@ -90,14 +90,14 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Street 1", city = "Edinburgh", region = "UK", postcode = "EH11", country = "United Kingdom", country_code = "UK"}
+address = {street = "Campus The Avenue", city = "Edinburgh", region = "UK", postcode = "EH14 4AS", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "55.911927", longitude = "--3.321202"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "The Physics Department can be found at David Brewster's Building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
