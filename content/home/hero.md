@@ -24,7 +24,7 @@ hero_media = "galaxy_jar.jpeg"
   gradient_end = "#2b94c3"
   
   # Background image.
-   image = "quantum.jpg"  # Name of image in `static/img/`.
+   image = "galaxy.jpg"  # Name of image in `static/img/`.
    image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -59,7 +59,7 @@ Build **Anything** with Widgets
 
 ---
 
-Look! You can do maths in latex $$\int dx\;f(x) = 1$$.
+Look! You can do maths in latex $$\int dx\;f(x) = 1$$
 
 ---
 
@@ -67,6 +67,8 @@ You can do lists:
 
 * item 1
 * item 2
+
+---
 
 You can put code:
 ```python
@@ -86,6 +88,7 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 Quotes:
+
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 Or links like this [Bring me to Google](https://www.google.com)
