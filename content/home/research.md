@@ -54,7 +54,7 @@ Welcome to the Quantum Optics and Cold Atoms (QOCA) research group. We are part 
 
 We work on problems related to low-temperature physics, quantum optics, condensed matter physics, quantum information and gauge theories. The topic is theoretical physics, but we are also closely collaborating with experimentalists.
 
-![Quantum Physics](/static/img/quantum.jpg)
+![Quantum Physics](/img/quantum.jpg)
 
 **This is the template I am using to create our group's website !**
 
