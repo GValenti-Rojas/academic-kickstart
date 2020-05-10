@@ -94,7 +94,7 @@ address = {street = "Campus The Avenue", city = "Edinburgh", region = "UK", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "55.911927", longitude = "--3.321202"}
+coordinates = {latitude = "55.911927", longitude = "-3.321202"}
 
 # Directions for visitors to locate you.
 directions = "The Physics Department can be found at David Brewster's Building"
