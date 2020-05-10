@@ -25,7 +25,7 @@ hero_media = "galaxy_jar.jpeg"
   
   # Background image.
    image = "quantum.jpg"  # Name of image in `static/img/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -57,11 +57,16 @@ Build **Anything** with Widgets
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
+---
+
 Look! You can do maths in latex $$\int dx\;f(x) = 1$$.
 
+---
+
 You can do lists:
-- item 1
-- item 2
+
+* item 1
+* item 2
 
 You can put code:
 ```python
@@ -73,7 +78,17 @@ print (s+1)
 
 ```
 
-Or [links](https://www.google.com)
+Also tables:
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+Quotes:
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+
+Or links like this [Bring me to Google](https://www.google.com)
 
 And even youtube videos:
 {{< youtube id="xVZ-lIuIi7A" autoplay="false" >}}
