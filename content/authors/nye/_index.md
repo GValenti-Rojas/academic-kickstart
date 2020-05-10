@@ -4,13 +4,13 @@ name: "Aneirin (Nye) Baker"
 
 # Username (this should match the folder name)
 authors:
-- patrik
+- nye
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Phd Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
