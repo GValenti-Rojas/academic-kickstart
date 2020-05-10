@@ -24,7 +24,7 @@ hero_media = "galaxy_jar.jpeg"
   gradient_end = "#2b94c3"
   
   # Background image.
-   image = "patrik.jpg"  # Name of image in `static/img/`.
+   image = "quantum.jpg"  # Name of image in `static/img/`.
    image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -51,8 +51,30 @@ hero_media = "galaxy_jar.jpeg"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**This is the template I am using to create our group's website !**
 
 Build **Anything** with Widgets
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
+Look! You can do maths in latex $$\int dx\;f(x) = 1$$.
+
+You can do lists:
+- item 1
+- item 2
+
+You can put code:
+```python
+s = "Python syntax highlighting"
+
+
+number1 = 23
+print (s+1)
+
+```
+
+Or [links](https://www.google.com)
+
+And even youtube videos:
+{{< youtube id="xVZ-lIuIi7A" autoplay="false" >}}
+
