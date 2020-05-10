@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Quantum Optics and Cold Atoms Group"
+name: "Gerard Valentí-Rojas"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Institute of Photonics and Quantum Sciences
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: We do some research on quantum stuff.
+bio: I like theoretical physics
 
 interests:
 - Quantum Simulation
