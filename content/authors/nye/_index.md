@@ -20,9 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I graduated from Edinburgh univeristy in 2018 with a Masters in Physics. My thesis was on applications of Fourier Acceleration to lattice field theory.
 From there I went on to my current possition as a PhD student under Michael Hartmann looking into applications of Superconducting circuits to Quantum Simulators.
-I am also working with Patrik Ohbergs group researching things such as DMRG and Chiral Condensates in 1+1d. 
-
-In my spare time i enjoy cycling and Hiking in the scottish highlands. 
+I am also working with Patrik Ohbergs group researching things such as DMRG and Chiral Condensates in 1+1d.  
 
 interests:
 - Circuit QED
