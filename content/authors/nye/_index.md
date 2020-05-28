@@ -18,7 +18,7 @@ organizations:
   url: "https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/photonics-quantum-sciences.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Quantum Stuff
+bio: I graduated from Edinburgh univeristy in 2018 with a Masters in Physics. My thesis was on applications of Fourier Acceleration to lattice field theory.
 
 interests:
 - Circuit QED
