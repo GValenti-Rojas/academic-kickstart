@@ -16,8 +16,6 @@ role: PhD Candidate
 organizations:
 - name: Heriot-Watt University
   url: "https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/photonics-quantum-sciences.htm"
-- name: Friedrich-Alexander-Universität Erlangen-Nürnberg
-  url: "https://www.quantumtheory.nat.fau.eu/"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: I graduated from Edinburgh univeristy in 2018 with a Masters in Physics. My thesis was on applications of Fourier Acceleration to lattice field theory.
