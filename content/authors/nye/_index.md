@@ -18,14 +18,13 @@ organizations:
   url: "https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/photonics-quantum-sciences.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I graduated from Edinburgh univeristy in 2018 with a Masters in Physics. My thesis was on applications of Fourier Acceleration to lattice field theory.\ From there I went on to my current possition as a PhD student under Michael Hartmann looking into applications of Superconducting circuits to Quantum Simulators.
+bio: I do quantum stuff.
 
 interests:
 - Circuit QED
-- asvca
-- asdafadfads
-- adsfadsf
-- adfafdas
+- Quantum Computing
+- Machine Learning
+- Quantum Simulators
 
 education:
   courses:
@@ -68,7 +67,11 @@ user_groups:
 - Researchers
 ---
 
-Here Dean talks a little about himself !
+I graduated from Edinburgh univeristy in 2018 with a Masters in Physics. My thesis was on applications of Fourier Acceleration to lattice field theory.
+From there I went on to my current possition as a PhD student under Michael Hartmann looking into applications of Superconducting circuits to Quantum Simulators.
+I am also working with Patrik Ohbergs group researching things such as DMRG and Chiral Condensates in 1+1d. 
+
+In my spare time i enjoy cycling and Hiking in the scottish highlands. 
 
 
 
