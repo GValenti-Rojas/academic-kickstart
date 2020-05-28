@@ -23,6 +23,9 @@ bio: Quantum Stuff
 interests:
 - Circuit QED
 - asvca
+- asdafadfads
+- adsfadsf
+- adfafdas
 
 education:
   courses:
