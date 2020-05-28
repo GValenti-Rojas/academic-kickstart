@@ -20,6 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I graduated from Edinburgh univeristy in 2018 with a Masters in Physics. My thesis was on applications of Fourier Acceleration to lattice field theory.
 
+From there I went on to my current possition as a PhD student under Michael Hartmann looking into applications of Superconducting circuits to Quantum Simulators.
+
 interests:
 - Circuit QED
 - asvca
