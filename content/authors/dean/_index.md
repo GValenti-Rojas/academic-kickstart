@@ -83,6 +83,6 @@ For 1D and small 2D models, Matrix Product States/Operators (MPSs/MPOs) combined
 Publications
 ======
 
-* *Dean Johnstone*, Niclas Westerberg, Callum W. Duncan, Patrik Öhberg, "Staggered Ground States in an Optical Lattice", Phys. Rev. A 100, 043614 (2019)
+* **Dean Johnstone**, Niclas Westerberg, Callum W. Duncan, Patrik Öhberg, "Staggered Ground States in an Optical Lattice", Phys. Rev. A 100, 043614 (2019)
 
-* *Dean Johnstone*, Patrik Öhberg, Callum W. Duncan, "Phase transitions of an ultracold gas in a quasicrystalline potential", Phys. Rev. A 100, 053609 (2019)
+* **Dean Johnstone**, Patrik Öhberg, Callum W. Duncan, "Phase transitions of an ultracold gas in a quasicrystalline potential", Phys. Rev. A 100, 053609 (2019)
