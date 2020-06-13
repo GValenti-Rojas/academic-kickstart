@@ -23,6 +23,7 @@ bio: We do some research on quantum stuff.
 interests:
 - Quasicrystals
 - Strongly Correlated Systems
+- Ultracold Atoms in Optical Lattices
 
 education:
   courses:
